@@ -3,7 +3,7 @@ title Verificador de Sistema
 setlocal enabledelayedexpansion
 
 echo ======================================================
-echo           Security Alert ! (<-- TF?)
+echo           Security Alert !
 echo ======================================================
 echo.
 echo this script will grab your info and send it somewhere
