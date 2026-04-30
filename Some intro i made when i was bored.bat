@@ -10,4 +10,4 @@ powershell -command "Write-Host '		 \ \    / /   \ \  \ \  \___|\ \  \_|\ \ \  \
 powershell -command "Write-Host '	    \ \__/ /     \ \__\ \__\    \ \_______\ \__\\ _\ ' -ForegroundColor Red"
 powershell -command "Write-Host '		   \|__|/       \|__|\|__|     \|_______|\|__|\|__| ' -ForegroundColor Red"
 echo.
-:: the intro may be a little broken bcs githin is like this, you can fix it if you want!
+:: the intro may be a little broken bcs github is like this, you can fix it if you want!
